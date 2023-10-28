@@ -2,9 +2,13 @@
     float:left;
 }
 
-.text{
-    margin-top: 50px;
-    width: 80%;
+.newCampusBlock{
+    margin-top: 200px;
     padding: 0 20px;
-    text-align: center;
+    
+}
+
+.campusText{
+    margin: auto;
+    width: 65%;
 }
