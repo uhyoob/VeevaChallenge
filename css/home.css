@@ -17,7 +17,7 @@ header{
 	align-items: center;
 	justify-content: space-between;
 	padding: 33px 9%;
-	background: #F4EDE4;
+	background: #b3e6ba;
 	background-image: linear-gradient(to right, #F4EDE4, #ffffff);
 }
 
@@ -46,11 +46,11 @@ body{
 }
 
 .navlist a:hover{
-	color: #7A3434;
+	color: #1E2B20;
 }
 
 #colorStay{
-	color: #824945;
+	color: #5B9A6F;
 	border-bottom: 2px solid transparent;
 }
 
@@ -91,7 +91,7 @@ section{
 
 .hero-text h1{
 	font-size: 50px;
-	color: #7A3434;
+	color: #1E2B20;
 	white-space: nowrap; /* Keeps the content on a single line */
 	line-height: 1;
 	margin: auto;
@@ -107,8 +107,8 @@ section{
 
 .hero-text a{
 	display: inline-block;
-	color: #F4EDE4;
-	background: #7A3434;
+	color: #D2F2D6;
+	background: #1E2B20;
 	border: 1px solid transparent;
 	padding: 10px 30px;
 	margin-bottom: 10px;
@@ -251,7 +251,7 @@ section{
 			right: -100%;
 			width: 100px;
 			height: 28vh;
-			background: #F4EDE4;
+			background: #D2F2D6;
 			border-radius: 30px;
 			display: flex;
 			align-items: center;
