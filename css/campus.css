@@ -12,3 +12,9 @@
     margin: auto;
     width: 65%;
 }
+
+.campusImage{
+    width: 100%;
+    align-items: center;
+    text-align: center;
+}
