@@ -1,0 +1,84 @@
+                              Sex      Diet   Country  Continent  Hemisphere  \
+Sex                      1.000000 -0.008045  0.016501  -0.016902   -0.003075   
+Diet                    -0.008045  1.000000 -0.007897   0.016592    0.009511   
+Country                  0.016501 -0.007897  1.000000  -0.444254   -0.292710   
+Continent               -0.016902  0.016592 -0.444254   1.000000    0.220963   
+Hemisphere              -0.003075  0.009511 -0.292710   0.220963    1.000000   
+Heart Attack Risk        0.003095  0.004540  0.003550   0.004446   -0.012704   
+Blood Pressure          -0.006755  0.003131  0.027259  -0.018721   -0.001870   
+Age                      0.020067  0.002104  0.002567  -0.010387   -0.002795   
+Cholesterol              0.007614  0.003582  0.012962   0.008892   -0.019462   
+Heart Rate              -0.010921 -0.016409 -0.016436   0.000975    0.010145   
+Income                   0.002660  0.004429 -0.018578  -0.000598    0.002447   
+BMI                     -0.003021 -0.003544  0.002394  -0.001403    0.001512   
+Triglycerides            0.002933  0.017930  0.019330  -0.010763   -0.013185   
+Exercise Hours Per Week -0.006976  0.002653  0.005799  -0.002928   -0.007485   
+Sedentary Hours Per Day  0.002995 -0.003725  0.016105  -0.027349    0.011850   
+
+                         Heart Attack Risk  Blood Pressure       Age  \
+Sex                               0.003095       -0.006755  0.020067   
+Diet                              0.004540        0.003131  0.002104   
+Country                           0.003550        0.027259  0.002567   
+Continent                         0.004446       -0.018721 -0.010387   
+Hemisphere                       -0.012704       -0.001870 -0.002795   
+Heart Attack Risk                 1.000000        0.005619  0.006403   
+Blood Pressure                    0.005619        1.000000 -0.010336   
+Age                               0.006403       -0.010336  1.000000   
+Cholesterol                       0.019340        0.003399 -0.009107   
+Heart Rate                       -0.004251        0.001011 -0.003844   
+Income                            0.009628        0.023231 -0.001733   
+BMI                               0.000020        0.032372 -0.002612   
+Triglycerides                     0.010471       -0.004524  0.003415   
+Exercise Hours Per Week           0.011133        0.003655  0.001206   
+Sedentary Hours Per Day          -0.005613        0.008788  0.017280   
+
+                         Cholesterol  Heart Rate    Income       BMI  \
+Sex                         0.007614   -0.010921  0.002660 -0.003021   
+Diet                        0.003582   -0.016409  0.004429 -0.003544   
+Country                     0.012962   -0.016436 -0.018578  0.002394   
+Continent                   0.008892    0.000975 -0.000598 -0.001403   
+Hemisphere                 -0.019462    0.010145  0.002447  0.001512   
+Heart Attack Risk           0.019340   -0.004251  0.009628  0.000020   
+Blood Pressure              0.003399    0.001011  0.023231  0.032372   
+Age                        -0.009107   -0.003844 -0.001733 -0.002612   
+Cholesterol                 1.000000    0.000315  0.000007  0.017292   
+Heart Rate                  0.000315    1.000000  0.004873  0.005299   
+Income                      0.000007    0.004873  1.000000  0.008836   
+BMI                         0.017292    0.005299  0.008836  1.000000   
+Triglycerides              -0.005454    0.012244  0.010739 -0.005964   
+Exercise Hours Per Week     0.021517    0.008276 -0.023414  0.003777   
+Sedentary Hours Per Day     0.018914   -0.010232  0.003511 -0.000024   
+
+                         Triglycerides  Exercise Hours Per Week  \
+Sex                           0.002933                -0.006976   
+Diet                          0.017930                 0.002653   
+Country                       0.019330                 0.005799   
+Continent                    -0.010763                -0.002928   
+Hemisphere                   -0.013185                -0.007485   
+Heart Attack Risk             0.010471                 0.011133   
+Blood Pressure               -0.004524                 0.003655   
+Age                           0.003415                 0.001206   
+Cholesterol                  -0.005454                 0.021517   
+Heart Rate                    0.012244                 0.008276   
+Income                        0.010739                -0.023414   
+BMI                          -0.005964                 0.003777   
+Triglycerides                 1.000000                 0.001717   
+Exercise Hours Per Week       0.001717                 1.000000   
+Sedentary Hours Per Day      -0.005785                 0.008756   
+
+                         Sedentary Hours Per Day  
+Sex                                     0.002995  
+Diet                                   -0.003725  
+Country                                 0.016105  
+Continent                              -0.027349  
+Hemisphere                              0.011850  
+Heart Attack Risk                      -0.005613  
+Blood Pressure                          0.008788  
+Age                                     0.017280  
+Cholesterol                             0.018914  
+Heart Rate                             -0.010232  
+Income                                  0.003511  
+BMI                                    -0.000024  
+Triglycerides                          -0.005785  
+Exercise Hours Per Week                 0.008756  
+Sedentary Hours Per Day                 1.000000  
