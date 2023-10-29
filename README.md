@@ -16,4 +16,7 @@ National Center for Biotechnology Information (2023). PubChem Compound Summary f
 
 Lovastatin is a cholerteral drug that we pretened was Cholecap for the drug information. The emmbeded 3d model is also of Lovastatin.
 
+WEBSITE ACCESS:
+To access website download the repository and open one of the html pages.
+
 
